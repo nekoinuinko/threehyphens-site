@@ -388,6 +388,12 @@ img {
   object-position: 50% 7%;
 }
 
+.work-card-art--father-essay img,
+.work-card-art--okan-comic img {
+  object-fit: contain;
+  object-position: center;
+}
+
 .work-card-link:hover .work-card-art img,
 .work-card-link:focus-visible .work-card-art img {
   transform: scale(1.018);
