@@ -304,6 +304,17 @@
   margin-top: 1.35em;
 }
 
+.story-photo {
+  margin: 2.75rem 0;
+}
+
+.story-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+}
+
 .story-body ruby {
   ruby-align: center;
 }
