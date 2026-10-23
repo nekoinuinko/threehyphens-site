@@ -558,6 +558,27 @@
   object-fit: cover;
 }
 
+.character-gallery {
+  display: flex;
+  width: min(100%, 52rem);
+  flex-direction: column;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  margin: 0 auto;
+}
+
+.character-gallery-item {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--ink);
+  background: #fff;
+}
+
+.character-gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .link-directory {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
