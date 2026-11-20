@@ -17,7 +17,7 @@ assets/images/threehyphens-cat.png 猫のイラスト
 works/moto-yusha/index.html         小説の作品トップ・目次
 works/moto-yusha/episodes/          第1話～第10話の本文ページ
 works/crowbar-nurse/index.html      「バールナース」の作品トップ・章別目次
-works/crowbar-nurse/episodes/       公開済み全131話の本文ページ
+works/crowbar-nurse/episodes/       公開済み全132話の本文ページ
 works/crowbar-nurse/illustrations/  全176枚・全16ページのイラストコーナー
 works/crowbar-nurse-short-stories/index.html  「バールナース番外短編集」の作品トップ・目次
 works/crowbar-nurse-short-stories/episodes/   全12話の本文ページ
@@ -29,7 +29,7 @@ works/okan-comic/index.html          「オカン漫画」の作品トップ
 works/okan-comic/comics/             全16枚・全4ページの漫画コーナー
 
 「元勇者、わが子と国道沿いを楽しむ」は全10話を掲載済みです。
-「バールナース」は公開済みの全131話を、7章に分けて掲載しています。
+「バールナース」は公開済みの全132話を、7章に分けて掲載しています。
 同作品のイラスト176枚を、9～20枚ずつ16ページに分けて掲載しています。
 「バールナース番外短編集」は公開済み11話に、バックアップ内で下書きだった
 「それは本当に、熱中症ではないですね……。」をEP.12として加えた全12話を掲載しています。
